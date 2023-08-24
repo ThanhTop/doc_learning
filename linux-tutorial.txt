@@ -1,0 +1,25 @@
+Hệ quản trị điều hành mã nguồn mở Linux
+- Cách thức học: gõ lệnh
+- Linux là hệ điều hành mã nguồn mở (open source) miễn phí dành cho tất cả mọi người.
+- Có nhiều bản phân phối của linux: https://distrowatch.com/
+- Hai nhánh chính được sử dụng ở Việt Nam: Red hat(centos/fedora) - Ubuntu
+- Ai dùng linux?  https://sitereport.netcraft.com/
+- microsfot mã nguồn đóng và tính phí - linux mã nguồn mở 
+- Thiết lập môi trường: cài đặt virtualbox và download centos minimal ios
+- Đăng nhập vào linux
+- Chạy lệnh và trợ giúp lênh trên linux: 
+command [options] [argumments]
++ chạy lệnh ở dạng đơn giản nhất
++ nhớ được các từ viết tắt của lệnh  
+- trợ giúp lệnh
++ lệnh man
++ google
+- để cuộn xuống file: move down, move up, PgDn, PgUp
+- đi đến cuối: shift + g, đi lên đầu g
+- tìm kiếm từ: /keyword + enter
++ đi đến kết quả sau: n , đi đến kết quả trước shift + n
+- thoát: q
+- giới thiệu về file system: Ở trên linux, tất cả mọi thứ đều là file
++  trên linux có 2 dạng file chính là: file và thư mục. 
++ thư mục cũng là một dạng file. đây là file chứa thông tin về các loại file khác
+- Các lệnh file system thiết yếu
